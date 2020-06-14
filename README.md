@@ -1,2 +1,2 @@
-# differential_learning
-Differential Learning paper implementation in TensorFlow 2
+# Differential Learning
+This repo implements the paper [*Differential Machine Learning*](https://arxiv.org/abs/2005.02347) by Brian Huge and Antoine Savine. The authors already provide notebooks [on their github page](https://github.com/differential-machine-learning) but using TensorFlow 1 code, and lots of low-level manual implementation. Here we aim to reproduce the results with high-level APIs (Keras, GradientTape) in TensorFlow 2.
